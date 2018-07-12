@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Dream_96_V2.0-RoundHoles-Plated.TXT]
+   Generated File[Dream_96_V2.0-RoundHoles-NonPlated.TXT]
+   Generated File[Dream_96_V2.0-SlotHoles-Plated.TXT]
+   Generated File[Dream_96_V2.0-SlotHoles-NonPlated.TXT]
+   Generated File[Dream_96_V2.0.LDP]
+   Generated File[Dream_96_V2.0.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 16:38:01 On 2018/7/12

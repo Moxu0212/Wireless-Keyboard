@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\hesmf\Desktop\Github开源项96目文件\Dream_96_V2.0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dream_96_v2.0-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=dream_96_v2.0-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=dream_96_v2.0-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=dream_96_v2.0-slotholes-nonplated.txt|DrillLayers=gtl,gbl

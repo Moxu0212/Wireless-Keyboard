@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dream_96_V2.0.PcbDoc   2018/7/12  16:38:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Dream_96_V2.0-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Dream_96_V2.0-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Dream_96_V2.0-SlotHoles-Plated.TXT
+ASCII Non-Plated SlotHoles File : Dream_96_V2.0-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             2         PTH        0.33inch (8.28mm)
+T2      16mil (0.406mm)                                           Round             118       PTH        77.70inch (1973.64mm)
+T3      20mil (0.5mm)                                             Round             12        PTH        7.69inch (195.44mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.17inch (4.40mm)
+T5      35mil (0.9mm)                                             Round             8         PTH        2.35inch (59.69mm)
+T6      51mil (1.3mm)                                             Round             200       PTH        125.78inch (3194.88mm)
+T7      102mil (2.6mm)                                            Slot              8         PTH        83.77inch (2127.82mm)
+T8      106mil (2.7mm)                                            Round             6         PTH        7.25inch (184.03mm)
+T9      110mil (2.8mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T10     20mil (0.5mm)                                             Slot              6         NPTH       1.09inch (27.61mm)
+T11     71mil (1.8mm)                                             Round             200       NPTH       114.83inch (2916.69mm)
+T12     118mil (3mm)                                              Round             12        NPTH       28.36inch (720.34mm)
+T13     157mil (3.98mm)                                           Round             12        NPTH       21.74inch (552.17mm)
+T14     157mil (4mm)                                              Round             100       NPTH       92.51inch (2349.71mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              687
+
+Total Processing Time (hh:mm:ss) : 00:00:01
